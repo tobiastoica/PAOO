@@ -5,7 +5,6 @@ int main() {
     std::cout << "  PAOO - Proiectarea Aplicatiilor Orientate pe Obiecte  \n";
     std::cout << "  Lucrare 1: Descrierea Mediului de Lucru               \n";
     std::cout << "========================================================\n";
-    std::cout << "Student: Stoica Tobias\n";
     std::cout << "Sistem de operare / Platforma: Linux (WSL / Native)\n";
 
 #if defined(__GNUC__)

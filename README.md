@@ -1,9 +1,6 @@
 # Proiectarea Aplicațiilor Orientate pe Obiecte (PAOO)
 
-Acest repository conține rezolvarea și testarea lucrărilor practice și temelor de laborator pentru disciplina **Proiectarea Aplicațiilor Orientate pe Obiecte (PAOO)** din cadrul Universității Politehnica Timișoara (UPT).
-
-**Student:** Stoica Tobias  
-**GitHub:** [tobiastoica/PAOO](https://github.com/tobiastoica/PAOO)
+Acest repository conține rezolvarea și testarea lucrărilor practice și a temelor de laborator pentru disciplina **Proiectarea Aplicațiilor Orientate pe Obiecte (PAOO)**.
 
 ---
 
